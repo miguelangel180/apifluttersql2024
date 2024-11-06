@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Analista TIC\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Analista TIC\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgWebActivatorEx Condition=" '$(PkgWebActivatorEx)' == '' ">C:\Users\Analista TIC\.nuget\packages\webactivatorex\2.2.0</PkgWebActivatorEx>
+    <PkgMicrosoft_AspNet_WebApi_Core Condition=" '$(PkgMicrosoft_AspNet_WebApi_Core)' == '' ">C:\Users\Analista TIC\.nuget\packages\microsoft.aspnet.webapi.core\5.3.0</PkgMicrosoft_AspNet_WebApi_Core>
+    <PkgSwashbuckle_Core Condition=" '$(PkgSwashbuckle_Core)' == '' ">C:\Users\Analista TIC\.nuget\packages\swashbuckle.core\5.6.0</PkgSwashbuckle_Core>
+    <PkgSwashbuckle_AspNetCore_SwaggerUI Condition=" '$(PkgSwashbuckle_AspNetCore_SwaggerUI)' == '' ">C:\Users\Analista TIC\.nuget\packages\swashbuckle.aspnetcore.swaggerui\6.9.0</PkgSwashbuckle_AspNetCore_SwaggerUI>
+    <PkgSwashbuckle_AspNetCore_Swagger Condition=" '$(PkgSwashbuckle_AspNetCore_Swagger)' == '' ">C:\Users\Analista TIC\.nuget\packages\swashbuckle.aspnetcore.swagger\6.9.0</PkgSwashbuckle_AspNetCore_Swagger>
+    <PkgSwashbuckle_AspNetCore_SwaggerGen Condition=" '$(PkgSwashbuckle_AspNetCore_SwaggerGen)' == '' ">C:\Users\Analista TIC\.nuget\packages\swashbuckle.aspnetcore.swaggergen\6.9.0</PkgSwashbuckle_AspNetCore_SwaggerGen>
+    <PkgMicrosoft_AspNet_WebApi_WebHost Condition=" '$(PkgMicrosoft_AspNet_WebApi_WebHost)' == '' ">C:\Users\Analista TIC\.nuget\packages\microsoft.aspnet.webapi.webhost\5.3.0</PkgMicrosoft_AspNet_WebApi_WebHost>
+    <PkgSwashbuckle Condition=" '$(PkgSwashbuckle)' == '' ">C:\Users\Analista TIC\.nuget\packages\swashbuckle\5.6.0</PkgSwashbuckle>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Analista TIC\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation Condition=" '$(PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation)' == '' ">C:\Users\Analista TIC\.nuget\packages\microsoft.aspnetcore.mvc.razor.runtimecompilation\8.0.10</PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation>
+    <PkgMicrosoft_AspNetCore_Mvc_Core Condition=" '$(PkgMicrosoft_AspNetCore_Mvc_Core)' == '' ">C:\Users\Analista TIC\.nuget\packages\microsoft.aspnetcore.mvc.core\2.2.5</PkgMicrosoft_AspNetCore_Mvc_Core>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Analista TIC\.nuget\packages\fsharp.core\8.0.401</PkgFSharp_Core>
+  </PropertyGroup>
+</Project>

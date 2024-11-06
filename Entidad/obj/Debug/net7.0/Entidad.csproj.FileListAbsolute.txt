@@ -1,0 +1,30 @@
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Entidad.deps.json
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Entidad.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.AssemblyInfoInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.AssemblyInfo.cs
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.csproj.CoreCompileInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\refint\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\ref\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Aplicacion.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Aplicacion.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.csproj.AssemblyReference.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.csproj.CopyComplete
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Entidad.deps.json
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Entidad.dll
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Entidad.pdb
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Aplicacion.dll
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\bin\Debug\net7.0\Aplicacion.pdb
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.csproj.AssemblyReference.cache
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.AssemblyInfoInputs.cache
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.AssemblyInfo.cs
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.csproj.CoreCompileInputs.cache
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.csproj.Up2Date
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.dll
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\refint\Entidad.dll
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\Entidad.pdb
+E:\ProyectosFlutter\apliflutter\apisfluttersqlserver\Entidad\obj\Debug\net7.0\ref\Entidad.dll

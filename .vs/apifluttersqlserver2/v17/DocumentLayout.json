@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|c:\\users\\analista tic\\source\\repos\\apifluttersqlserver\\service_apis\\webapplication1\\controllers\\notascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|solutionrelative:service_apis\\webapplication1\\controllers\\notascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|c:\\users\\analista tic\\source\\repos\\apifluttersqlserver\\service_apis\\webapplication1\\controllers\\materiascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|solutionrelative:service_apis\\webapplication1\\controllers\\materiascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|c:\\users\\analista tic\\source\\repos\\apifluttersqlserver\\service_apis\\webapplication1\\controllers\\listanotascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|solutionrelative:service_apis\\webapplication1\\controllers\\listanotascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|c:\\users\\analista tic\\source\\repos\\apifluttersqlserver\\service_apis\\webapplication1\\controllers\\alumnosscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|solutionrelative:service_apis\\webapplication1\\controllers\\alumnosscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|c:\\users\\analista tic\\source\\repos\\apifluttersqlserver\\service_apis\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123E8324-D9E6-46CC-B1EB-749A990196A9}|service_apis\\WebApplication1\\service_apis.fsproj|solutionrelative:service_apis\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotasControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\NotasControllers.cs",
+              "RelativeDocumentMoniker": "service_apis\\WebApplication1\\Controllers\\NotasControllers.cs",
+              "ToolTip": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\NotasControllers.cs",
+              "RelativeToolTip": "service_apis\\WebApplication1\\Controllers\\NotasControllers.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:34:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MateriasControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\MateriasControllers.cs",
+              "RelativeDocumentMoniker": "service_apis\\WebApplication1\\Controllers\\MateriasControllers.cs",
+              "ToolTip": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\MateriasControllers.cs",
+              "RelativeToolTip": "service_apis\\WebApplication1\\Controllers\\MateriasControllers.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:34:18.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaNotasControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\ListaNotasControllers.cs",
+              "RelativeDocumentMoniker": "service_apis\\WebApplication1\\Controllers\\ListaNotasControllers.cs",
+              "ToolTip": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\ListaNotasControllers.cs",
+              "RelativeToolTip": "service_apis\\WebApplication1\\Controllers\\ListaNotasControllers.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:34:12.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnossControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\AlumnossControllers.cs",
+              "RelativeDocumentMoniker": "service_apis\\WebApplication1\\Controllers\\AlumnossControllers.cs",
+              "ToolTip": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\Controllers\\AlumnossControllers.cs",
+              "RelativeToolTip": "service_apis\\WebApplication1\\Controllers\\AlumnossControllers.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAmwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:33:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "service_apis\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Analista TIC\\source\\repos\\apifluttersqlserver\\service_apis\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "service_apis\\WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T19:26:58.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

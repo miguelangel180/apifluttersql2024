@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\alex\fluttertest</_PublishTargetUrl>
+    <History>True|2024-09-19T03:55:50.4751056Z;False|2024-09-18T22:55:36.3583973-05:00;True|2024-09-18T21:54:20.7338412-05:00;True|2024-09-16T12:14:15.4060735-05:00;True|2024-09-16T11:39:09.4082384-05:00;True|2024-09-16T11:31:08.4346353-05:00;True|2024-09-16T08:03:45.7431698-05:00;True|2024-09-16T07:47:03.2128764-05:00;True|2024-09-15T00:28:17.3516461-05:00;True|2024-09-15T00:09:36.7738792-05:00;True|2024-09-15T00:08:53.9489833-05:00;True|2024-09-15T00:08:43.0207071-05:00;True|2024-09-14T23:59:47.6181771-05:00;True|2024-09-14T23:51:52.0001173-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

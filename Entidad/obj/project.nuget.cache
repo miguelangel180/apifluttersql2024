@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdWoUZgkgU0=",
+  "success": true,
+  "projectFilePath": "E:\\ProyectosFlutter\\apliflutter\\apisfluttersqlserver\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Analista TIC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Analista TIC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Analista TIC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

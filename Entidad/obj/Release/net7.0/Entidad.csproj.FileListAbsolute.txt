@@ -1,0 +1,15 @@
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Release\net7.0\Entidad.deps.json
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Release\net7.0\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Release\net7.0\Entidad.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.AssemblyInfoInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.AssemblyInfo.cs
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.csproj.CoreCompileInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\refint\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\ref\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Release\net7.0\Aplicacion.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\bin\Release\net7.0\Aplicacion.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.csproj.AssemblyReference.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Entidad\obj\Release\net7.0\Entidad.csproj.CopyComplete

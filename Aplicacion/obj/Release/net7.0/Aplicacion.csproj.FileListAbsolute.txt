@@ -1,0 +1,11 @@
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\bin\Release\net7.0\Aplicacion.deps.json
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\bin\Release\net7.0\Aplicacion.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\bin\Release\net7.0\Aplicacion.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\Aplicacion.AssemblyInfoInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\Aplicacion.AssemblyInfo.cs
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\Aplicacion.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\refint\Aplicacion.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\Aplicacion.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Aplicacion\obj\Release\net7.0\ref\Aplicacion.dll

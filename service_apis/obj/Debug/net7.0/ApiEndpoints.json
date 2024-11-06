@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "service_apis.Controllers.General.AlumnosControllers",
+    "Method": "ReturnListaAlumnos",
+    "RelativePath": "api/sistema/alumnos/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.ListaNotasControllers",
+    "Method": "ReturnListaNotas",
+    "RelativePath": "api/sistema/lista/notas/lista_notas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.MateriasControllers",
+    "Method": "ReturnListaMaterias",
+    "RelativePath": "api/sistema/materias/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.NotasControllers",
+    "Method": "deleteDatosPersonalesByIndetificador",
+    "RelativePath": "api/sistema/notas/delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "en_De_Notas",
+        "Type": "Entidad.General.En_De_Notas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.NotasControllers",
+    "Method": "ReturnDatosPersonalesAcro",
+    "RelativePath": "api/sistema/notas/insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "en_De_Notas",
+        "Type": "Entidad.General.En_De_Notas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.NotasControllers",
+    "Method": "ReturnListaNotas",
+    "RelativePath": "api/sistema/notas/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.NotasControllers",
+    "Method": "ReturnListaNotasAlumno",
+    "RelativePath": "api/sistema/notas/lista_alumno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAlumno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "service_apis.Controllers.General.NotasControllers",
+    "Method": "UpdateDatosPersonalesByIndetificador",
+    "RelativePath": "api/sistema/notas/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "en_De_Notas",
+        "Type": "Entidad.General.En_De_Notas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

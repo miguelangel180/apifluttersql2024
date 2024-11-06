@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>apifluttersqlserver</id>
+    <version>1.0.0</version>
+    <authors>apifluttersqlserver</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="AspNetCore.SwaggerUI" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNet.WebApi.Core" version="5.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNet.WebApi.WebHost" version="5.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Proxies" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="SwaggerUi" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle" version="5.6.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.SwaggerGen" version="6.9.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.SwaggerUI" version="6.9.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.Core" version="5.6.0" exclude="Build,Analyzers" />
+        <dependency id="WebActivatorEx" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Analista TIC\source\repos\apifluttersqlserver\bin\Debug\net8.0\apifluttersqlserver.dll" target="lib\net8.0\apifluttersqlserver.dll" />
+  </files>
+</package>

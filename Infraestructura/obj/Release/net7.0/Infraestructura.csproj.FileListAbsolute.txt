@@ -1,0 +1,17 @@
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Infraestructura.deps.json
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Infraestructura.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Infraestructura.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Entidad.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Entidad.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.csproj.AssemblyReference.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.AssemblyInfoInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.AssemblyInfo.cs
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.csproj.CopyComplete
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\refint\Infraestructura.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\Infraestructura.pdb
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\obj\Release\net7.0\ref\Infraestructura.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Aplicacion.dll
+D:\alex\trabajo\uta\2024\cursos UTA\flutter impartir\material\servicioweb\apisfluttersqlserver\Infraestructura\bin\Release\net7.0\Aplicacion.pdb

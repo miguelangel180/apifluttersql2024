@@ -1,0 +1,12 @@
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\bin\Debug\net8.0\apifluttersqlserver.deps.json
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\bin\Debug\net8.0\apifluttersqlserver.dll
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\bin\Debug\net8.0\apifluttersqlserver.pdb
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.csproj.AssemblyReference.cache
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.AssemblyInfoInputs.cache
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.AssemblyInfo.cs
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.csproj.CoreCompileInputs.cache
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.dll
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\refint\apifluttersqlserver.dll
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\apifluttersqlserver.pdb
+C:\Users\Analista TIC\source\repos\apifluttersqlserver\obj\Debug\net8.0\ref\apifluttersqlserver.dll
